@@ -12,7 +12,7 @@ In this theme we explore thinking around the best way to organize innovation. In
 
 # 1.  Jon Gertner在*The Idea Factory*上发表演讲
 
-在2013年，**乔恩·格特纳（Jon Gertner）**在谷歌公司发表了一场关于他所著《**创意工厂：贝尔实验室与美国创新的伟大时代**》的演讲。该书深入探讨了贝尔实验室（Bell Labs）的历史、其在20世纪对技术创新的重大贡献，以及其独特的管理和运营模式。
+在2013年，**乔恩·格特纳（Jon Gertner）**在谷歌公司发表了一场关于他所著《**创意工厂：贝尔实验室与美国创新的伟大时代**》的演讲。该书深入探讨了贝尔实验室（Bell Labs）的历史、其在20世纪对技术创新的重大贡献，以及其独特的管理和运营模式。
 
 **贝尔实验室的历史与贡献：**
 
@@ -302,6 +302,7 @@ Core principles of open innovation:
 微软联合创始人比尔·盖茨（Bill Gates）也认识到这些技术的重要性，并在微软的产品中采用了类似的GUI概念。盖茨曾表示，微软和苹果都受益于Xerox PARC在创建图形界面方面的工作。
 
 尽管Xerox PARC在计算技术的发展中发挥了关键作用，但施乐公司未能成功将这些创新商业化。乔布斯曾评论说，施乐本可以主导整个计算机行业，但他们未能充分利用自己的发明。
+
 Although Xerox PARC played a key role in the development of computing technology, Xerox failed to successfully commercialize these innovations. Jobs once commented that Xerox could have dominated the entire computer industry, but they failed to fully utilize their inventions.
 
 总而言之，Xerox PARC的Alto计算机对史蒂夫·乔布斯和比尔·盖茨产生了深远影响，推动了个人计算机的发展，并塑造了现代计算的面貌。
