@@ -260,7 +260,7 @@ Build-Measure-Learn Loop
   - **测量：** 收集用户反馈，评估假设的准确性。
   - **学习：** 根据反馈调整产品，迭代优化。
 - 核心思想：
-  - 快速失败并快速调整（Fail Fast and Pivot）。
+  - <span style = "color:red">快速失败并快速调整（Fail Fast and Pivot）。</span>
 
 #### **数据驱动的决策**
 
@@ -599,7 +599,7 @@ Data-driven decision making
 
 # 8. LinkedIn联合创始人Reid Hoffman与Satya Nadella [没有核心内容]
 
-在这段时长约1小时9分钟的对话中，**LinkedIn联合创始人**兼**《闪电式扩张》（Blitzscaling）**一书的合著者**里德·霍夫曼（Reid Hoffman）**与**微软首席执行官** **萨提亚·纳德拉（Satya Nadella）**深入探讨了企业在快速扩张过程中所面临的挑战和策略。
+在这段时长约1小时9分钟的对话中，**LinkedIn联合创始人**兼**《闪电式扩张》（Blitzscaling）**一书的合著者**里德·霍夫曼（Reid Hoffman）**与**微软首席执行官** **萨提亚·纳德拉（Satya Nadella）**深入探讨了企业在快速扩张过程中所面临的挑战和策略。
 
 **主要讨论内容包括：**
 

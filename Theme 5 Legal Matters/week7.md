@@ -141,7 +141,7 @@ GDPR 不仅是一项数据保护法规，还对创新（特别是数据驱动的
 
 # 3. 这是 IPO 涵盖内容的一般介绍
 
-英国知识产权局（IPO）turn0search0iturn0image0turn0image1turn0image3turn0image6
+英国知识产权局（IPO）
 
 英国知识产权局（Intellectual Property Office，简称 IPO）是英国政府的官方机构，负责管理和保护知识产权（Intellectual Property，IP）权益。其主要职责包括：
 

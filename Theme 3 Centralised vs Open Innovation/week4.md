@@ -295,7 +295,7 @@ Core principles of open innovation:
 
 # 7. Xerox PARC by Steve Jobs& Bill Gates
 
-施乐帕洛阿尔托研究中心（Xerox PARC）在20世纪70年代初开发了施乐Alto计算机，这是一款具有革命性意义的个人计算机，配备了图形用户界面（GUI）、鼠标和以太网连接等先进技术。这些创新为现代计算奠定了基础。
+施乐帕洛阿尔托研究中心（Xerox PARC）在20世纪70年代初开发了施乐Alto计算机，这是一款具有革命性意义的个人计算机，配备了图形用户界面（GUI）、鼠标和以太网连接等先进技术。这些创新为现代计算奠定了基础。
 
 1979年12月，苹果公司联合创始人史蒂夫·乔布斯（Steve Jobs）参观了Xerox PARC，亲眼目睹了Alto的功能。他对GUI和鼠标的潜力印象深刻，决定将这些概念整合到苹果的产品中，最终导致了Lisa和Macintosh计算机的开发
 

@@ -34,7 +34,7 @@
 
    - **定义**：这种创新往往以较低的成本、简单的技术进入市场，最初吸引的是主流市场以外的边缘客户。
 
-   Such innovations often enter the market at a lower cost and with simpler technology, initially attracting fringe customers outside the mainstream market.
+   Such innovations often enter the market at a lower cost and with simpler technology, initially attracting edge customers outside the mainstream market.
 
    - 特点：
 
@@ -118,7 +118,7 @@
 
    Pay attention to and explore low-end or niche markets as early as possible to seize opportunities for the development of disruptive technologies.
 
-3. **长远视角**
+3. **长远视角**Long-term perspective
 
    - 将资源分配向潜在的未来市场，而不仅是现有市场的高回报领域。
 
