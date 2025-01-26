@@ -109,7 +109,7 @@ TIBS_STUDY/
 
 \- [Ayaka Kamisato](https://github.com/AyakaKamisato7)[仓库所有者]
 
-\- [Each](https://github.com/Each9084)[md自述作者]
+\- [Each](https://github.com/Each9084)[贡献者 md自述作者]
 
 \- [KUN QIAN](https://github.com/MoneyKun-inspirit)[贡献者]
 
