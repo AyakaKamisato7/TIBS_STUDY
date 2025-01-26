@@ -298,6 +298,7 @@ https://www-jstor-org.bris.idm.oclc.org/stable/1251835)
 **第7章：创新性与采用者类别**
 
 罗杰斯将采用者根据其接受创新的速度分为五类：
+Rogers divides adopters into five categories based on how quickly they adopt innovation:
 
 1. **创新者（Innovators）：** 愿意冒险尝试新事物的先驱者。
 2. **早期采用者（Early Adopters）：** 具有领导地位，迅速采纳创新的意见领袖。

@@ -173,7 +173,6 @@ Professor Richard Owen emphasized that RRI is a framework that aims to closely i
 
   The potential negative impact of technology on energy consumption and the environment is often overlooked.
   
-
 - **案例：** 大型数据中心的碳排放问题。
 
 - 建议：
@@ -410,6 +409,7 @@ The principles of RRI apply to any field, including artificial intelligence, dat
 - 欧盟框架计划（EU Framework Programmes）：
   - RRI 已被纳入欧盟的科研资助政策中，作为指导原则之一。
   - 包括六大维度：伦理、性别平等、公众参与、科学教育、开放获取和治理。
+    It includes six dimensions: ethics, gender equality, public participation, science education, open access and governance.
 
 #### **3.2 行业应用（Industry Applications）**
 

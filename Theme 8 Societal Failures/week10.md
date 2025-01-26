@@ -252,7 +252,7 @@ Alexander Nix 在视频中展示了剑桥分析如何利用数据和行为科学
      - 算法被设计用来提高效率，但其内嵌的偏见和缺乏透明性对弱势群体造成了长期影响。
    - 相关资料：
      - O'Neill 的 Google 演讲解释了她的核心观点。
-3. **性别数据偏见**
+3. **性别数据偏见 **Gender data bias
    - 《隐形女性》（Invisible Women）：
      - Caroline Criado-Perez 揭示了性别数据缺失如何导致女性在医疗、交通和城市规划等领域被忽视，甚至面临更高风险。
    - 相关资料：
@@ -261,6 +261,7 @@ Alexander Nix 在视频中展示了剑桥分析如何利用数据和行为科学
 #### **2. 民主与社会结构的脆弱性**
 
 1. **选举干预与信息操控**
+   Election interference and information manipulation
    - 技术平台通过社交媒体和算法传播定制化信息，操控公众意见，削弱了民主的真实性。
    - 剑桥分析对选举的干预：
      - Alexander Nix 的演讲展示了他们如何使用数据推动 Ted Cruz 在初选中的崛起。
@@ -268,11 +269,14 @@ Alexander Nix 在视频中展示了剑桥分析如何利用数据和行为科学
    - 相关资料：
      - Channel4 和 BBC 关于剑桥分析的新闻片段，以及 Christopher Wylie 对数据泄露的详细披露。
 2. **技术放大社会两极化**
+   Technology amplifies social polarization
    - 大数据和社交媒体通过推送符合用户偏好的信息，形成“信息茧房”，加剧了社会分裂。
    - 相关资料：
      - Jamie Bartlett 在《人与技术》中探讨了科技如何侵蚀民主。
 
 #### **3. 平台责任与伦理**
+
+Platform Responsibility and Ethics
 
 1. **透明性与问责机制的缺失**
    - 平台公司（如 Facebook 和 Google）对数据的使用缺乏透明性，未能对社会后果承担责任。

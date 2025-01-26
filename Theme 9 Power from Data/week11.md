@@ -55,7 +55,9 @@
 #### **2.2 相关案例与材料**
 
 1. **爱德华·斯诺登的揭露**
+   棱镜门 Prism Gate
    - 斯诺登曝光了美国国家安全局（NSA）通过项目 Prism 对全球通信数据的监控。
+     Snowden exposed the National Security Agency (NSA)'s surveillance of global communications data through Project Prism.
    - 在《Permanent Record》中，他描述了监视如何侵害民主和个人隐私。
 2. **中国的社会信用体系**
    - 通过面部识别、行为监控和信用评分，中国政府建立了全面的社会控制网络。
